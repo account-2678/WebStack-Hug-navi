@@ -1,16 +1,12 @@
 ---
 
-- taxonomy: 常用推荐
+- taxonomy: AI
   icon: far fa-star
   links: 
     - title: ChatGPT
-      logo: 语雀.webp
+      logo: openai.webp
       url: https://chatgpt.com
       description: OpenAI旗下的大语言模型 
-    - title: Claude
-      logo: claude.png
-      url: https://claude.ai/
-      description: Anthropic Claude。
     - title: Gemini
       logo: gemini.png
       url: https://gemini.google.com/
@@ -18,11 +14,23 @@
     - title: DeepSeek
       logo: deepseek.png
       url: https://chat.deepseek.com/
-      description: DeepSeek AI。
+      description: DeepSeek AI。 
+    - title: Claude
+      logo: claude.png
+      url: https://claude.ai/
+      description: Anthropic Claude。
     - title: Grok
       logo: grok.png
       url: https://grok.com/
       description: xAI Grok。
+      
+- taxonomy: 常用推荐
+  icon: far fa-star
+  links: 
+    - title: Outlook邮箱
+      logo: outlook.png
+      url: https://outlook.live.com/mail/
+      description: 微软邮箱。
     - title: QQ 邮箱
       logo: qq邮箱.png
       url: http://mail.qq.com/
@@ -35,10 +43,6 @@
       logo: 搜狗微信.jpg
       url: https://weixin.sogou.com/
       description: 搜狗微信搜索，一搜即达。
-    - title: 知乎
-      logo: 知乎.png
-      url: https://www.zhihu.com/
-      description: 知乎社区。
     - title: V2EX
       logo: v2ex.jpg
       url: https://www.v2ex.com/
@@ -51,10 +55,10 @@
   list:
     - term: 生物信息
       links:
-        - title: NCBI
+        - title: Pubmed
           logo: ncbi.jpg
-          url: https://www.ncbi.nlm.nih.gov/
-          description: National Center for Biotechnology Information.
+          url: https://pubmed.ncbi.nlm.nih.gov/
+          description: PUBMED.
         - title: Bioconda
           logo: bioconda.jpg
           url: https://anaconda.org/bioconda/
@@ -89,9 +93,9 @@
           logo: 华为云.png
           url: https://www.huaweicloud.com/
           description: 提供云计算服务+智能，见未来-华为云。
-        - title: 云筏科技
-          logo: 云筏.png
-          url: https://www.cloudraft.cn/
+        - title: 亚马逊AWS
+          logo: AMAZON.png
+          url: https://ap-northeast-1.console.aws.amazon.com/console/home
           description: 你的生信科研好选择。
         - title: 极云普惠云电脑
           logo: 极云普惠云电脑.png
