@@ -3,10 +3,10 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
-    - title: 语雀
+    - title: ChatGPT
       logo: 语雀.webp
-      url: https://www.yuque.com/
-      description: 专业的云端知识库。
+      url: https://chatgpt.com
+      description: OPENAI是世界上第一个发明LLM的公司。
     - title: QQ 邮箱
       logo: qq邮箱.png
       url: http://mail.qq.com/
